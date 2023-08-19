@@ -2,10 +2,10 @@
 
 ## Vrinda Store Annual Report 2022
 
-The Vrinda Store Annual Report 2022 project repository. This project is dedicated to creating an insightful annual sales report for the year 2022, aimed at helping Vrinda Store understand their customers, sales trends, and growth opportunities for the upcoming year.
+The Vrinda Store Annual Report 2022 project repository. This project is dedicated to creating an insightful annual sales report for the year 2022, aimed at helping Vrinda Store understand its customers, sales trends, and growth opportunities for the upcoming year.
 
 ### Introduction
-In the ever-evolving retail landscape, understanding sales trends and customer behavior is crucial for sustainable growth. This project revolves around generating an annual sales report for Vrinda Store for the year 2022. The report provides valuable insights to help Vrinda Store optimize their strategies and boost sales in the upcoming year.
+In the ever-evolving retail landscape, understanding sales trends and customer behavior is crucial for sustainable growth. This project revolves around generating an annual sales report for Vrinda Store for the year 2022. The report provides valuable insights to help Vrinda Store optimize its strategies and boost sales in the upcoming year.
 
 ### Features
 #### Annual Sales Report:
